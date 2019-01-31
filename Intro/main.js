@@ -18,3 +18,6 @@ console.log("Your name is " + firstName + name + " and you live in " + city);
 }*/
 
 // Exercise 1.4
+
+
+// Exercise 1.5
