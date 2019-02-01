@@ -1,0 +1,23 @@
+#black {
+  height: 50px;
+  width: 50px;
+ background-color: black;
+}
+.color {
+  float: auto;
+  width: 20px;
+  height: 20px;
+  margin : 10px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
